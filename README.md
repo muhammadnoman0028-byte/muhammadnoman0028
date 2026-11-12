@@ -1,22 +1,26 @@
-# Hi there, I'm Muhammad Noman 👋
+# Muhammad Noman
 
-### 👨‍💻 About Me
+**AI student & developer** interested in building practical, application-driven projects with Python and computer vision.
+
+## About me
+
 - 🎓 Pursuing studies in **Artificial Intelligence**
-- 🛠️ Currently building interactive applications using **Streamlit, OpenCV, and Python**
-- 🧪 Working on **Feature Detection, Homography Estimation, and Machine Learning workflows**
-- 🎯 Passionate about application-driven visual demonstrations and hands-on algorithms
+- 🛠️ Building interactive applications using **Streamlit, OpenCV, and Python**
+- 🔬 Working on **feature detection, homography estimation, and machine learning workflows**
+- 💡 Focused on hands-on algorithms and visual, demo-friendly implementations
 
----
+## Tech stack
 
-### 🛠️ Tech Stack & Tools
-**Languages:** Python, C++  
-**Libraries & Frameworks:** OpenCV, Streamlit, Scikit-Learn, NumPy, Pandas  
-**Environment & Tools:** VS Code, Google Colab, Git & GitHub  
+- **Languages:** Python, C++
+- **Libraries & frameworks:** OpenCV, Streamlit, scikit-learn, NumPy, Pandas
+- **Tools:** VS Code, Google Colab, Git & GitHub
 
----
+## GitHub stats
 
-### 📊 GitHub Stats
-![Aapka GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadnoman0028-byteE&show_icons=true&theme=radial)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadnoman0028-byte&show_icons=true&theme=radial)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnoman0028-byte&layout=compact&theme=radial)
 
----
+## Links
+
+- Main profile: [github.com/muhammadnoman0028-byte](https://github.com/muhammadnoman0028-byte)
+- Projects: see my pinned and public repositories on my profile
