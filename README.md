@@ -1,26 +1,56 @@
-# Muhammad Noman
+<div align="center">
 
-**AI student & developer** interested in building practical, application-driven projects with Python and computer vision.
+# hey, i'm muhammad noman 👋
 
-## About me
+**i explore, break, build, and bring ideas around me to life.**
 
-- 🎓 Pursuing studies in **Artificial Intelligence**
-- 🛠️ Building interactive applications using **Streamlit, OpenCV, and Python**
-- 🔬 Working on **feature detection, homography estimation, and machine learning workflows**
-- 💡 Focused on hands-on algorithms and visual, demo-friendly implementations
+[![Profile](https://img.shields.io/badge/GitHub-muhammadnoman0028--byte-181717?style=flat-square&logo=github)](https://github.com/muhammadnoman0028-byte)
 
-## Tech stack
+</div>
 
-- **Languages:** Python, C++
-- **Libraries & frameworks:** OpenCV, Streamlit, scikit-learn, NumPy, Pandas
-- **Tools:** VS Code, Google Colab, Git & GitHub
+---
 
-## GitHub stats
+### a little about me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadnoman0028-byte&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnoman0028-byte&layout=compact&theme=radial)
+- 🔭 i like turning everyday problems into small tools and experiments
+- 🧩 not chasing client work — just building **self repos** for the joy of making things work
+- 🌱 always tinkering, learning by doing, and shipping things that feel alive
+- ⚡ if something around me can be automated, visualized, or simplified… i'm probably poking at it
 
-## Links
+> *"make things. break things. learn. repeat."*
 
-- Main profile: [github.com/muhammadnoman0028-byte](https://github.com/muhammadnoman0028-byte)
-- Projects: see my pinned and public repositories on my profile
+---
+
+<details>
+<summary><b>what i'm usually up to</b></summary>
+<br/>
+
+- exploring ideas that catch my curiosity
+- building personal projects from scratch
+- refining tools until they feel smooth and useful
+- collecting experiments, not deadlines
+
+</details>
+
+<details>
+<summary><b>how i like to build</b></summary>
+<br/>
+
+- start small, iterate fast
+- keep it practical and fun
+- prefer things that actually run over things that only sound good
+- code for myself first — if it helps others too, that's a bonus
+
+</details>
+
+---
+
+<div align="center">
+
+### find more of my work
+
+check out my repos → **[github.com/muhammadnoman0028-byte](https://github.com/muhammadnoman0028-byte?tab=repositories)**
+
+*building in my own lane, one repo at a time.*
+
+</div>
